@@ -21,8 +21,8 @@ for i in aList:
 print(b)
 
 #Alternative Solution
-aList =  [x * x for x in aList]
-print(aList)
+# aList =  [x * x for x in aList]
+# print(aList)
 
 
 # Exercise 4: Concatenate two lists in the following order
